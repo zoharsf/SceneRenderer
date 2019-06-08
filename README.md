@@ -31,6 +31,5 @@
 ![Rings](rings.jpg?raw=true "Rings")
 * Triangles:
 ![Triangles](triangles.jpg?raw=true "Triangles")
-* Video:
-
+* Video rendered from a movie of a sea turtle swiming up for air:
 ![Turtle](turtle.gif?raw=true "Turtle")
